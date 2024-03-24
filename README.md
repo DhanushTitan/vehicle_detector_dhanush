@@ -1,4 +1,4 @@
-# Vehicle Detector
+# Transportation Detector
 
 The Vehicle Detector is a web application designed to detect and count vehicles in images uploaded by users. It utilizes computer vision techniques to identify vehicles within the images and provides users with visual feedback on the detected vehicles.
 
@@ -43,5 +43,7 @@ Access the application through your web browser.
 
 
 
-https://github.com/DhanushTitan/vehicle_detector_dhanush/assets/123448273/4b74d89e-0274-4995-aae2-42d49a4cf982
+
+
+https://github.com/DhanushTitan/vehicle_detector_dhanush/assets/123448273/9bd8c319-f0c4-45d8-b531-cf3803feb21d
 
